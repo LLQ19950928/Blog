@@ -1,2 +1,2 @@
 # Blog
-phalcon框架做的博客项目
+Yii博客项目
